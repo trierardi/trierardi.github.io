@@ -1,4 +1,3 @@
-# trierardi.github.io
 # testing
 <html>
 <head>
