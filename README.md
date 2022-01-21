@@ -10,6 +10,10 @@ h1 {
   color: white;
   margin-left: 0px;
 }
+p {
+  color: white;
+  margin-left: 10px;
+}
 </style>
 </head>
 <body>
