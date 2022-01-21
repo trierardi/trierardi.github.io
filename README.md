@@ -4,12 +4,12 @@
 <head>
 <style>
 body {
-  background-color: linen;
+  background-color: black;
 }
 
 h1 {
-  color: maroon;
-  margin-left: 40px;
+  color: white;
+  margin-left: 0px;
 }
 </style>
 </head>
